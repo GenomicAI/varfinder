@@ -41,6 +41,14 @@ Make sure the dependencies are satisfied. Then, copy the files in the released s
 10. [singularity](https://github.com/sylabs/singularity) (Tested version 3.8.5-2.el7 / ce-4.0.1-1.el9)
 11. [GATK](https://github.com/broadinstitute/gatk) (Tested version singularity image [gatk_4.4.0.0.sif](https://hub.docker.com/r/broadinstitute/gatk))
 12. [DeepVariant](https://github.com/google/deepvariant) (Tested with singularity image [deepvariant_1.5.0.sif](https://hub.docker.com/r/google/deepvariant))
+#### Version 2 tools  
+13. [pbsim](https://github.com/yukiteruono/pbsim3)
+14. minimap2
+15. wfmash
+16. seqwish
+17. smoothxg
+18. gfaffix
+19. odgi
 
 ## Workflow
 The workflow diagram with tools used and files generated in each step is shown in the below diagram. 
