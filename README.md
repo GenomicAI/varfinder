@@ -49,7 +49,8 @@ Make sure the dependencies are satisfied. Then, copy the files in the released s
 17. smoothxg
 18. gfaffix
 19. odgi
-20. gsl
+20. delly
+21. [diamond](https://github.com/bbuchfink/diamond)
 
 ## Workflow
 The workflow diagram with tools used and files generated in each step is shown in the below diagram. 
